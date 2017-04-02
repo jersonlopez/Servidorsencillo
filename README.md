@@ -6,4 +6,4 @@ Tarea 1
 
 - http://librosweb.es/libro/bootstrap_3/capitulo_1/la_primera_plantilla_bootstrap.html
 
-//despues de actualizar las variables globales
+
